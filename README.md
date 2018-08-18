@@ -6,5 +6,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 How to use this app
 
 `cd to my-app`
+
 `npm install`
+
 `npm start`
